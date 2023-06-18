@@ -1,4 +1,4 @@
-package socket_programming_package;
+package main_package;
 
 import java.util.logging.Logger;
 import java.util.Scanner;
