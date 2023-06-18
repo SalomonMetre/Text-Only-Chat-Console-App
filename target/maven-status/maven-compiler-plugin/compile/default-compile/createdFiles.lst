@@ -1,5 +1,5 @@
-socket_programming_package/Printer.class
-socket_programming_package/SimpleServer.class
-socket_programming_package/SimpleClient$1.class
-socket_programming_package/SimpleClient.class
-socket_programming_package/SimpleServer$1.class
+main_package/SimpleServer.class
+main_package/SimpleClient.class
+main_package/Printer.class
+main_package/SimpleServer$1.class
+main_package/SimpleClient$1.class

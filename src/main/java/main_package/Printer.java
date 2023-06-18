@@ -1,4 +1,4 @@
-package socket_programming_package;
+package main_package;
 
 public class Printer {
     private Printer() {
